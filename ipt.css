@@ -19,8 +19,16 @@
     text-align: center;
     justify-content: center;
 }
-    
-    
-    
-   
+.services{
+    background-image: url("resource/assets/backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    height: 300px;
 }
+.icons{
+    text-align: center;
+}
+
