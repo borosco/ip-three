@@ -1,0 +1,26 @@
+.container{
+    background-image: url("resource/assets/backgrounds/image-one.jpg");
+    background-size:100%;
+    background-repeat:no-repeat;
+    overflow: hidden;
+    height: auto;
+}
+.head1{
+     text-align: center; 
+    justify-content: center;
+    color: white;
+    margin-top:20% ;
+}
+.image{
+    text-align: center;
+    margin-top:10% ;
+}
+.about{
+    text-align: center;
+    justify-content: center;
+}
+    
+    
+    
+   
+}
