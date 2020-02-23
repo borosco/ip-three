@@ -11,13 +11,14 @@
     color: white;
     margin-top:20% ;
 }
-.image{
+.image1{
     text-align: center;
     margin-top:10% ;
 }
 .about{
     text-align: center;
     justify-content: center;
+    margin-top:10% ;
 }
 .services{
     background-image: url("resource/assets/backgrounds/s_image.jpg");
@@ -27,8 +28,39 @@
     text-align: center;
     color: white;
     height: 300px;
+    padding-top: 5%;
 }
 .icons{
     text-align: center;
 }
+.image{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.portfolio{
+    text-align: center;
+    justify-content: center;
+}
+.contact{
+    background-image: url(resource/assets/backgrounds/c_image.jpg);
+    text-align: center;
+    color: white;
+}
+.trans{
+    background: transparent;
+    margin-top: 10px;
+    
+}
+.socials{
+    justify-content: center;
+    display: inline-block;
+    text-align: center;
+    padding: 16px;
+    padding-bottom: 50px;
+    
 
+}
+.footer{
+    text-align: center;
+}
